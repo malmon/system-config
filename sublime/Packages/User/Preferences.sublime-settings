@@ -1,0 +1,10 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Indent XML"
+	],
+	"spell_check": true,
+	"translate_tabs_to_spaces": true
+}

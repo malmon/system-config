@@ -1,0 +1,33 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Ansible",
+		"Ansible Vault",
+		"AnsibleSnippets",
+		"ApplySyntax",
+		"Babel",
+		"Dockerfile Syntax Highlighting",
+		"FileDiffs",
+		"Git",
+		"Groovy Snippets",
+		"Indent XML",
+		"Jinja2",
+		"Logstash Syntax Highlighting",
+		"Markdown Extended",
+		"MarkdownPreview",
+		"Package Control",
+		"Python 3",
+		"Python Checker",
+		"SerializedDataConverter",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-ansible-lint",
+		"Terminal",
+		"Trimmer"
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"user":
+	{
+		"debug": true,
+		"linters":
+		{
+			"ansiblelint":
+			{
+				"@disable": false,
+				"R": "",
+				"args":
+				[
+				],
+				"exclude": "",
+				"excludes":
+				[
+				],
+				"r": "",
+				"t": "",
+				"x": ""
+			}
+		},
+		"tooltips": true
+	}
+}
